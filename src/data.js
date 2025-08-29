@@ -134,6 +134,15 @@ const projects = [
 		Focused on emotional and everyday conversation flows.
 		Deployed via Streamlit with a clean, user-friendly interface.
         `
+    },{
+        name: 'RAG - Ask Your Notes',
+        url: 'https://github.com/Dinesh-Narasimhan/RAG',
+        description: `
+                Developed an AI-powered study assistant for personalized learning.
+		Automatically retrieves the most relevant information from uploaded notes.
+		Generates clear and detailed answers to user questions in natural language.
+		Delivers an interactive and user-friendly experience through a chat interface.
+        `
     },
      {
         name: 'Cardiovascular Disease Prediction from ECG Images',
