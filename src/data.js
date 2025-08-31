@@ -177,11 +177,13 @@ const projects = [
         `
     },
     {
-        name: 'Emotion Prediction with YOLO & ViT',
-        url: 'https://github.com/Dinesh-Narasimhan/Emotion-prediction-with-yolo-and-vit',
+        name: 'cars24-based-price-prediction',
+        url: 'https://github.com/Dinesh-Narasimhan/cars24-based-price-prediction',
         description: `
-                Real-time emotion detection app using YOLO for face detection and Vision Transformer (ViT) for emotion classification.
-		Works on live webcam or uploaded images, providing labeled visual feedback instantly.
+                Developed a machine learning system to predict used car prices.
+		Analyzes key details like make, model, year, mileage, and ownership history.
+		Provides accurate price estimates to support better buying and selling decisions.
+		Built an interactive web application for real-time predictions with a simple interface.
         `
     }
 ]
