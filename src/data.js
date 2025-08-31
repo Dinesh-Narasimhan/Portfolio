@@ -12,13 +12,13 @@ const description = {
                 `🚀 Passionate Data Scientist | Machine Learning Engineer | AI Innovator 
                 <br>
                 <br>
-                Hello! I'm ${data.name}, a B.Tech graduate in Electronic and Communication Engineering and completed data science course in Excelr. I am a passionate data science learner who enjoys working on real-life problems using data, algorithms, and intelligent tools.`,
+                Hello! I'm ${data.name}, a B.Tech graduate in Electronics and Communication Engineering with a strong interest in Data Science and AI. I have worked on multiple machine learning and AI projects and completed an internship at Ai Variant, where I applied data-driven solutions to real-world problems. I enjoy using data, algorithms, and intelligent tools to create practical and impactful applications.`,
 
     professional_highlights:
                  [
-                    'Strong knowledge of machine learning and data preprocessing',
-                    'Worked on data science projects.',
-                    "Familiar with scikit-learn, pandas, and real-world datasets."
+                    'Gained practical experience as a Data Science Intern at Ai Variant, contributing to customer insights and business decision-making with machine learning solutions.',
+                    'Designed and deployed multiple end-to-end AI/ML projects, including chatbots, RAG-based study assistants, disease prediction systems, NLP applications, and price prediction models.',
+                    "Skilled in Python, SQL, and data visualization, with hands-on expertise in Pandas, NumPy, Scikit-learn, Streamlit, Tableau, and other AI/ML tools."
                  ]
 }
 
