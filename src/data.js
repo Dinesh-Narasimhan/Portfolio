@@ -178,7 +178,7 @@ const projects = [
     },
     {
         name: 'cars24-based-price-prediction',
-        url: 'https://github.com/Dinesh-Narasimhan/cars24-based-price-prediction',
+        url: 'https://github.com/Dinesh-Narasimhan/car-price-prediction',
         description: `
                 Developed a machine learning system to predict used car prices.
 		Analyzes key details like make, model, year, mileage, and ownership history.
