@@ -27,7 +27,7 @@ const work_experiences = [
     {
         role: "Data Science Intern",
         company: "Ai Variant",
-        duration: '12th Apirl 2025 - 11th July 2025',
+        duration: '22th Feburary 2025 - 25th August 2025',
         linkedin: 'https://www.linkedin.com/company/ai-variant/',
         description: `Contributed to data-driven business decision-making by developing and deploying machine learning solutions for customer insights and strategic segmentation.`
     }
@@ -75,7 +75,7 @@ const certifications = {
 
         {
             name: 'AiVariant Internship',
-            url : 'https://drive.google.com/file/d/1wK4eAdBWVJfN2vrH26UPvSJIOJoYFYVj/view?usp=drive_link'
+            url : 'https://drive.google.com/file/d/1vBo5aPa3NGPbE9GT44ZkwUXmd9XUOj18/view?usp=sharing'
         },
         {
             name: '8-Weeks Internship on Artificial Intelligence, Machine Learning, and Data Science',
