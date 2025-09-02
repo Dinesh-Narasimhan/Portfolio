@@ -29,7 +29,7 @@ const work_experiences = [
         company: "Ai Variant",
         duration: '22th February 2025 - 25th August 2025',
         linkedin: 'https://www.linkedin.com/company/ai-variant/',
-        description: `Contributed to data-driven business decision-making by developing and deploying machine learning solutions for customer insights and strategic segmentation.`
+        description: `Worked as a Data Science Intern at Ai Variant, where I contributed to analyzing business data, building pricing and customer segmentation solutions, and delivering actionable insights to support strategic decision-making and customer-focused initiatives.`
     }
 
 ]
